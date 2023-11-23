@@ -39,3 +39,6 @@ Next, use a scheduling tool or planner to plan out your day or week. Allocate ti
 6. Stay organized by keeping your code, project files, notes, etc. in a logical and consistent structure.     
 7. Document your process and code for future reference and to make it easier for others to understand and maintain your projects.       
 8. Keep learning and staying up-to-date with new programming languages, tools, libraries, frameworks, best practices, et al. By doing so, you' ll be better equipped to handle the challenges that come your way.
+
+# 2023-11-23
+- "Today's programming wisdom is to focus on writing clean, maintainable code that can be easily understood by others. This means using clear and descriptive variable names, commenting your code thoroughly, and organizing your code into logical modules or functions. Remember, programming is not just about solving problems, but also about making it easy for others to understand and work with your solutions."
