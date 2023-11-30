@@ -72,3 +72,9 @@ Secondly, planning ahead is essential. Make sure you have a clear idea of what y
 
 # 2023-11-29
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and software to keep your project organized and up-to-date. Remember to take breaks and maintain a healthy work-life balance. By following these tips, you will be able to achieve your goals more effectively and enjoy the process of programming along the way.
+
+# 2023-11-30
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. Embrace new programming languages, frameworks, and tools, as they will help you stay ahead of the competition and contribute to your career growth.
+
+To be successful in programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. This will enable you to understand the inner workings of a program and make informed decisions when solving problems. Practice makes perfect, so keep challenging yourself with complex problems and projects to improve your problem-solving skills. 
+ - 来自NLP
