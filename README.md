@@ -78,3 +78,10 @@ Secondly, planning ahead is essential. Make sure you have a clear idea of what y
 
 To be successful in programming, it is essential to have a solid foundation in core concepts, such as data structures, algorithms, computer architecture, operating systems, etc. This will enable you to understand the inner workings of a program and make informed decisions when solving problems. Practice makes perfect, so keep challenging yourself with complex problems and projects to improve your problem-solving skills. 
  - 来自NLP
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Secondly, use time management techniques to your advantage. Break down your projects into smaller, manageable tasks. Then, allocate time for each task, allowing for some wiggle room in case things take longer than expected. Using a scheduling tool like Trello or Asana can help keep you organized and on track. 
+ 	
+Lastly, stay organised and don't be afraid to ask for help. Keep your code organized, your project files up-to-date, using version control like Git, which can save you a lot of time in the long run. Additionally, don’t hesitate to reach out to colleagues or online communities like Stack Overflow for assistance. Remember, knowledge sharing is an essential part of the coding community.
