@@ -91,3 +91,9 @@ Lastly, stay organised and don't be afraid to ask for help. Keep your code organ
 
 # 2023-12-03
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid unnecessary complexity and strive for clarity in your code. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to understand. Choose descriptive variable names, use comments sparingly but effectively, and follow established best practices and conventions. Finally, always test your code thoroughly to ensure it works as intended.
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out the steps you needto take and the resources you will need. Knowing what you want to achieve and how to go about it will save you time and frustration later on. 
+ -- 250 words
