@@ -97,3 +97,8 @@ Lastly, stay organised and don't be afraid to ask for help. Keep your code organ
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out the steps you needto take and the resources you will need. Knowing what you want to achieve and how to go about it will save you time and frustration later on. 
  -- 250 words
+
+# 2023-12-05
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write simple, clear code first and optimize only when profiling indicates that a particular section of code is causing performance issues.
