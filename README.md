@@ -108,3 +108,15 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. List your tasks: Start by creating a list of all the tasks you need to complete.This will give you a clear picture of what you have to do and help to organize your thoughts.
+2. Prioritize: Once you've created your list, prioritize the items based on their importance and urgency. By giving higher priority to tasks that need immediate attention, you can ensure that they are completed on time. 
+3. Break down large tasks into smaller ones: If you find that a task is too large or complex to manage, break it down into simpler, more manageable steps.By breaking down tasks this way, it will be easier to track your progress and ensure nothing is overlooked.  
+4. Use tools to stay organised: Utilize project management tools, such as Trello or Asana, to keep track of your task list and progress. These tools can help organize and prioritize your to-dos, as well as provide a visual representation of the status of each task.   
+5. Set deadlines: For each tasks on your priority list , set a deadline by which it must be completed. Deadlines will provide structure and motivation to get the task done on-time.    
+6. Stay focused: While working on a project, avoid distractions as much as possible. Close unnecessary tabs, turn off notifications, or work in a quiet environment to minimize distractions and maintain your focus.     
+7. Take breaks: It' s important to take breaks throughout the day to avoid burnout and mental fatigue. Schedule short breaks every hour or so to stretch your legs, grab a drink,or clear your mind.      
+8. Document your process: Document the process you used to solve a problem or complete a tasks. Not only will this help with future reference, but it can also serve as a guide for others to follow.
