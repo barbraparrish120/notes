@@ -120,3 +120,8 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 6. Stay focused: While working on a project, avoid distractions as much as possible. Close unnecessary tabs, turn off notifications, or work in a quiet environment to minimize distractions and maintain your focus.     
 7. Take breaks: It' s important to take breaks throughout the day to avoid burnout and mental fatigue. Schedule short breaks every hour or so to stretch your legs, grab a drink,or clear your mind.      
 8. Document your process: Document the process you used to solve a problem or complete a tasks. Not only will this help with future reference, but it can also serve as a guide for others to follow.
+
+# 2023-12-09
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's often better to write clear, simple code first and optimize only when necessary, based on profiling and performance measurements.
