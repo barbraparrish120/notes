@@ -131,3 +131,10 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-11
 - "Keep it simple, stupid!"
+
+# 2023-12-12
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your tasks in this way, you can focus on one thing at a time and avoid feeling overwhelmed.
+
+Next, use tools and resources to help manage your workflow. For example, using version control systems like Git can help keep your code organized and easy to track changes. Additionally, utilizing task management tools like Trello or Asana can ensure that you stay on top of your to-do list. These tools can also help team members collaborate more effectively. 
+ 使用编程语言和框架时，了解其优缺点以及适用场景。这将帮助你做出明智的选择，以便在特定项目中使用最合适的工具。同时，保持对新技术和最佳实践的关注，这将有助于你在职业生涯中不断成长。
+ 最后，培养良好的编程习惯，如编写简洁、可读性强的代码，添加注释，以及编写测试用例。这些习惯将使你的代码更容易维护和扩展，同时也有助于提高你的工作效率。总之，通过合理分配时间、利用工具资源、了解编程语言的优缺点、关注新技术以及养成良好的编程习
