@@ -144,3 +144,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-12-14
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to allow enough time so you don't feel rushed or overwhelmed. Finally, use task management tools like Trello or Asana to keep track of your progress and make sure you stay on track. Remember to take breaks and switch tasks every now and then to avoid getting stuck in a rut. By prioritizing, planning, organizing, using task managment tools, taking breaks, switching tasks and staying focused, you will be able to achieve your goals and become a more effective programmer.
+
+# 2023-12-15
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and potentially introduce bugs. It's important to first focus on writing clear, correct code that meets requirements, and only optimize when profiling has identified specific performance bottlenecks.
