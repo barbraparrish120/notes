@@ -234,3 +234,8 @@ In practical terms, this means favoring well-named variables, concise functions,
 
 # 2024-01-05
 - "Keep it simple, stupid!"
+
+# 2024-01-06
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logical thinking, creativity, experimentation, reference documentation, or even ask for help from others. Learning how to effectively problem solve will not only make you a better programmer but also a more confident and resilient individual.
