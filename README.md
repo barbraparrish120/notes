@@ -253,3 +253,8 @@ Another important aspect of programming wise is understanding the principles of 
 
 # 2024-01-09
 - Today's programming wisdom: "Simplicity is the ultimate sophistication. In software engineering, strive to write clear, concise, and maintainable code. Remember that code is read far more often than it is written. Optimize for readability and understandability, as this will save time, reduce errors, and enhance collaboration among team members. Always keep in mind the principles of 'Don't Repeat Yourself' (DRY) and 'You Aren't Gonna Need It' (YAGNI) to avoid over-engineering. Lastly, embrace modular design, test-driven development, and continuous learning to refine your craft and build resilient software systems."
+
+# 2024-01-10
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, maintainable code first and optimize only when necessary, based on profiling and performance metrics. Remember that clarity and simplicity often lead to better long-term efficiency." 
+
+In more detail but still concise: Always strive for readable, well-structured code that follows best practices and design patterns. Don't try to guess where bottlenecks might be; instead, use tools to identify them. Optimization without measurement can introduce unnecessary complexity and bugs, ultimately hurting the project's maintainability and evolution. Also, bear in mind that as technology advances, many optimizations may become irrelevant or handled automatically by compilers or runtime environments.
