@@ -258,3 +258,8 @@ Another important aspect of programming wise is understanding the principles of 
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, maintainable code first and optimize only when necessary, based on profiling and performance metrics. Remember that clarity and simplicity often lead to better long-term efficiency." 
 
 In more detail but still concise: Always strive for readable, well-structured code that follows best practices and design patterns. Don't try to guess where bottlenecks might be; instead, use tools to identify them. Optimization without measurement can introduce unnecessary complexity and bugs, ultimately hurting the project's maintainability and evolution. Also, bear in mind that as technology advances, many optimizations may become irrelevant or handled automatically by compilers or runtime environments.
+
+# 2024-01-11
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, this means that writing clean, readable, and straightforward code is often more valuable than complex and intricate solutions. Strive to reduce complexity whenever possible, as it enhances maintainability, scalability, and reduces the likelihood of bugs. Remember, you're not just writing code for computers to execute; you're writing it for other humans to read, understand, and modify." 
+
+"Also, 'Premature optimization is the root of all evil' - Donald Knuth. Focus on making your code correct first, then optimize if and where necessary. Modern software development emphasizes iterative improvement and using profiling data to guide optimization efforts rather than猜测和盲目优化."
