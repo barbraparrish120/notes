@@ -266,3 +266,8 @@ In more detail but still concise: Always strive for readable, well-structured co
 
 # 2024-01-12
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clean, readable, and maintainable code. Always aim to reduce complexity by breaking down problems into smaller, manageable parts. Remember that code is read far more often than it is written, so prioritize clarity and conciseness for future developers (including your future self). Additionally, embrace automation, use version control systems like Git, and practice writing tests to ensure code quality and minimize bugs."
+
+# 2024-01-13
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first; optimize only when necessary and after profiling. Remember that readability counts, as tomorrow’s maintenance programmer might be you." 
+
+In more detail, this quote emphasizes that striving to make parts of your code faster or more efficient before it's proven to be a bottleneck can lead to overly complex solutions and harder-to-maintain code. Instead, invest in good design, solid architecture, and clean, understandable code. When performance issues arise, use profiling tools to identify the real bottlenecks before optimizing. This ensures your time and effort are spent effectively, improving overall software quality and sustainability.
