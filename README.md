@@ -429,3 +429,13 @@ In essence, it's about making deliberate choices in your programming approach, k
 
 # 2024-02-19
 - "Keep it simple, stupid!"
+
+# 2024-02-20
+- "Today's programming wisdom is to embrace the SOLID principles for building maintainable and scalable software. SOLID stands for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles guide us towards writing clean code that's easy to understand, modify, and extend, ultimately leading to more robust and flexible applications." 
+
+Remember: 
+- A class should have only one reason to change (Single Responsibility).
+- Software entities should be open for extension but closed for modification (Open-Closed).
+- Derived classes must be substitutable for their base classes (Liskov Substitution).
+- Interfaces should be designed to be used by many client specific to their needs (Interface Segregation).
+- High-level modules should not depend on low-level modules; both should depend on abstractions (Dependency Inversion).
