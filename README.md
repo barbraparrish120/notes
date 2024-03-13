@@ -544,3 +544,8 @@ To achieve this, it is essential to develop a growth mindset and be willing to t
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary, based on data and profiling, not assumptions or hunches." 
 
 In more detail, this quote by computer scientist Donald Knuth emphasizes that striving to optimize code too early in the development process can lead to unnecessary complexity, harder maintenance, and potentially introduce bugs. It's better to write clean, straightforward code initially and then optimize specific parts after measuring their actual performance impact. This approach ensures your software remains understandable and adaptable while delivering efficient results.
+
+# 2024-03-13
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary, after profiling and identifying genuine bottlenecks. Remember that simplicity and clarity enhance debugging, testing, and collaboration — qualities often more crucial than micro-optimizations." 
+
+In addition, "Code is read much more often than it's written. Always strive to make your code easy to understand for others (and your future self). Use clear naming conventions, add comments judiciously, and structure your code with modularity and separation of concerns in mind."
